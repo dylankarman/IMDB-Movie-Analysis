@@ -7,5 +7,5 @@ Through careful analysis of the data set using many different built in Panda's m
     
 I also went a bit further and dove into what the average budgets for the films were per year versus what the average profits were per year. 
 
-We concluded that either an Animation, Action, or Adventure movie with a length of ~110 minutes, directed by Peter Jackson, and rated PG-13, was the most profitable combination of movies.
+We concluded that either an animation, action, or adventure movie with a length of ~110 minutes, directed by Peter Jackson, and rated PG-13, was the most profitable combination of movies.
     
